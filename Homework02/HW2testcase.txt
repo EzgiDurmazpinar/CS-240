@@ -1,0 +1,5 @@
+C++ is fun.
+The quick brown fox jumped over the lazy black dogs.
+abc, def. ghi-- JKLMNO + PqRs#@$ xyz
+
+end, of, test, case...	
